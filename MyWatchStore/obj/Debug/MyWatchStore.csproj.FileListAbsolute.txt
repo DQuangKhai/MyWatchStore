@@ -1,0 +1,574 @@
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\MyWatchStore.dll.config
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\MyWatchStore.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\MyWatchStore.pdb
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\csc.exe
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\csc.exe.config
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\csc.rsp
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\csi.exe
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\csi.exe.config
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\csi.rsp
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.AppContext.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Console.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\vbc.exe
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\vbc.exe.config
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\vbc.rsp
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\Antlr3.Runtime.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\Newtonsoft.Json.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.Helpers.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.Mvc.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.Optimization.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.Razor.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\WebGrease.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.Helpers.xml
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.Mvc.xml
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.Optimization.xml
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.Razor.xml
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.xml
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\Newtonsoft.Json.xml
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\Antlr3.Runtime.pdb
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.csprojAssemblyReference.cache
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.csproj.CoreCompileInputs.cache
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.csproj.CopyComplete
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.dll
+C:\Users\hutvo\Desktop\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.pdb
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\MyWatchStore.dll.config
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\MyWatchStore.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\MyWatchStore.pdb
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\csc.exe
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\csc.exe.config
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\csc.rsp
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\csi.exe
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\csi.exe.config
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\csi.rsp
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\System.AppContext.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\System.Console.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\vbc.exe
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\vbc.exe.config
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\vbc.rsp
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\Antlr3.Runtime.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\Newtonsoft.Json.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\System.Web.Helpers.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\System.Web.Mvc.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\System.Web.Optimization.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\System.Web.Razor.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\WebGrease.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\System.Web.Helpers.xml
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\System.Web.Mvc.xml
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\System.Web.Optimization.xml
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\System.Web.Razor.xml
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.xml
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\Newtonsoft.Json.xml
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\Antlr3.Runtime.pdb
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.csprojAssemblyReference.cache
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.csproj.CoreCompileInputs.cache
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.csproj.CopyComplete
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.pdb
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\PagedList.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\PagedList.Mvc.dll
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\PagedList.xml
+C:\Users\hutvo\Desktop\Random shit\MyWatchStore\MyWatchStore\bin\PagedList.Mvc.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\MyWatchStore.dll.config
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\MyWatchStore.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\MyWatchStore.pdb
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\csc.exe
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\csc.exe.config
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\csc.rsp
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\csi.exe
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\csi.exe.config
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\csi.rsp
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\System.AppContext.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\System.Console.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\vbc.exe
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\vbc.exe.config
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\vbc.rsp
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\Antlr3.Runtime.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\Newtonsoft.Json.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\PagedList.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\PagedList.Mvc.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\System.Web.Helpers.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\System.Web.Mvc.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\System.Web.Optimization.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\System.Web.Razor.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\WebGrease.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\PagedList.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\PagedList.Mvc.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\System.Web.Helpers.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\System.Web.Mvc.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\System.Web.Optimization.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\System.Web.Razor.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\Newtonsoft.Json.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\Antlr3.Runtime.pdb
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.pdb
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\MyWatchStore.dll.config
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\MyWatchStore.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\MyWatchStore.pdb
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\csc.exe
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\csc.exe.config
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\csc.rsp
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\csi.exe
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\csi.exe.config
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\csi.rsp
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.AppContext.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Console.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\vbc.exe
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\vbc.exe.config
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\vbc.rsp
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\Antlr3.Runtime.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\Newtonsoft.Json.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\PagedList.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\PagedList.Mvc.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.Helpers.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.Mvc.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.Optimization.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.Razor.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\WebGrease.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\PagedList.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\PagedList.Mvc.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.Helpers.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.Mvc.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.Optimization.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.Razor.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\Newtonsoft.Json.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\Antlr3.Runtime.pdb
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.pdb
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\csc.exe
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\MyWatchStore.dll.config
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\MyWatchStore.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\MyWatchStore.pdb
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\csc.exe.config
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\csc.rsp
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\csi.exe
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\csi.exe.config
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\csi.rsp
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.AppContext.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Console.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\vbc.exe
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\vbc.exe.config
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\vbc.rsp
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\Antlr3.Runtime.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\Newtonsoft.Json.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\PagedList.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\PagedList.Mvc.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.Helpers.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.Mvc.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.Optimization.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.Razor.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\WebGrease.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\PagedList.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\PagedList.Mvc.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.Helpers.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.Mvc.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.Optimization.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.Razor.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\Newtonsoft.Json.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\Antlr3.Runtime.pdb
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.dll
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.pdb
+C:\Users\Acer\Downloads\MyWatchStore\MyWatchStore\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\MyWatchStore.dll.config
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\MyWatchStore.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\MyWatchStore.pdb
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\csc.exe
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\csc.exe.config
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\csc.rsp
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\csi.exe
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\csi.exe.config
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\csi.rsp
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.AppContext.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Console.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\vbc.exe
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\vbc.exe.config
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\vbc.rsp
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\Antlr3.Runtime.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\Newtonsoft.Json.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\PagedList.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\PagedList.Mvc.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.Helpers.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.Mvc.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.Optimization.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.Razor.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\WebGrease.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\PagedList.xml
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\PagedList.Mvc.xml
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.Helpers.xml
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.Mvc.xml
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.Optimization.xml
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.Razor.xml
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.xml
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\Newtonsoft.Json.xml
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\Antlr3.Runtime.pdb
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.dll
+C:\Users\Acer\Desktop\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.pdb
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\MyWatchStore.dll.config
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\MyWatchStore.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\MyWatchStore.pdb
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\csc.exe
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\csc.exe.config
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\csc.rsp
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\csi.exe
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\csi.exe.config
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\csi.rsp
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.AppContext.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Console.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.Compression.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.IO.Pipes.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.AccessControl.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Claims.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.ValueTuple.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\vbc.exe
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\vbc.exe.config
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\vbc.rsp
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\VBCSCompiler.exe
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\Antlr3.Runtime.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\Newtonsoft.Json.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\PagedList.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\PagedList.Mvc.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.Helpers.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.Mvc.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.Optimization.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.Razor.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Razor.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\WebGrease.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\PagedList.xml
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\PagedList.Mvc.xml
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.Helpers.xml
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.Mvc.xml
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.Optimization.xml
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.Razor.xml
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.xml
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Web.WebPages.Razor.xml
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\Newtonsoft.Json.xml
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\Antlr3.Runtime.pdb
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.csprojResolveAssemblyReference.cache
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.dll
+D:\Documents\2019_HKII_LTWEB\MyWatchStore\MyWatchStore\MyWatchStore\obj\Debug\MyWatchStore.pdb

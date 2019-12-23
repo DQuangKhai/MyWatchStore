@@ -1,0 +1,7 @@
+﻿@if (Session["KhachHang"] == null) {
+    <a href="@Url.Action("DangNhap", "User")" class="btn btn-default">ĐĂNG NHẬP</a>
+}
+@if (Session["KhachHang"] != null) {
+    <a href="/" class="btn btn-default">@ViewBag.TenKhachHang</a>
+    <a href="@Url.Action("DangXuat", "User")" class="btn btn-default">ĐĂNG XUẤT</a>
+}
